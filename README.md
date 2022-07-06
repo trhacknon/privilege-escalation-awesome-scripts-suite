@@ -1,6 +1,6 @@
 # PEASS-ng - Privilege Escalation Awesome Scripts SUITE new generation
 
-![](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/raw/master/linPEAS/images/peass.png)
+![](https://github.com/trhacknon/privilege-escalation-awesome-scripts-suite/raw/master/linPEAS/images/peass.png)
 
 ![](https://img.shields.io/badge/Black-Arch-black) ![](https://img.shields.io/badge/Arch-AUR-brightgreen) ![](https://img.shields.io/badge/Black%20Hat%20Arsenal-Asia%202020-red)
 
@@ -13,13 +13,13 @@ Here you will find **privilege escalation tools for Windows and Linux/Unix\* and
 These tools search for possible **local privilege escalation paths** that you could exploit and print them to you **with nice colors** so you can recognize the misconfigurations easily.
 
 - Check the **Local Windows Privilege Escalation checklist** from **[book.hacktricks.xyz](https://book.hacktricks.xyz/windows/checklist-windows-privilege-escalation)**
-- **[WinPEAS](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS) - Windows local Privilege Escalation Awesome Script (C#.exe and .bat)**
+- **[WinPEAS](https://github.com/trhacknon/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS) - Windows local Privilege Escalation Awesome Script (C#.exe and .bat)**
 
 - Check the **Local Linux Privilege Escalation checklist** from **[book.hacktricks.xyz](https://book.hacktricks.xyz/linux-unix/linux-privilege-escalation-checklist)**
-- **[LinPEAS](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS) - Linux local Privilege Escalation Awesome Script (.sh)**
+- **[LinPEAS](https://github.com/trhacknon/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS) - Linux local Privilege Escalation Awesome Script (.sh)**
 
 ## Quick Start
-Find the **latest versions of all the scripts and binaries in [the releases page](https://github.com/carlospolop/PEASS-ng/releases/latest)**.
+Find the **latest versions of all the scripts and binaries in [the releases page](https://github.com/trhacknon/PEASS-ng/releases/latest)**.
 
 ## JSON, HTML & PDF output
 Check the **[parsers](./parsers/)** directory to **transform PEASS outputs to JSON, HTML and PDF**
